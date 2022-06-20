@@ -184,6 +184,10 @@ input:focus {
   text-align: center;
   color: rebeccapurple;
 }
+.active {
+  background-color: #202142;
+  color: red;
+}
 
 /* FIX: Remove position: absolute to keep about icon at the bottom of the
  * document */
